@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # theme gem
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@3.0.0
 
 # Name of website
 title: Fabio Armando
@@ -208,6 +208,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

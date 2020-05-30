@@ -2,5 +2,16 @@
 
 source "https://rubygems.org"
 
-gemspec
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
+# gem "rails"
+
+gem 'jekyll'
+
+gem 'jekyll-paginate'
+
+gem 'jekyll-sitemap'
+
+gem 'tzinfo-data'
+
+gem "jekyll-remote-theme"
