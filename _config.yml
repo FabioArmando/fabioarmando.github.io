@@ -1,5 +1,8 @@
 # --- Basic options --- #
 
+# Remote theme
+remote_theme: daattali/beautiful-jekyll@3.0.0
+
 # Name of website
 title: Fabio Armando
 
