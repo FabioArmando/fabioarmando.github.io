@@ -15,11 +15,11 @@ author: Fabio Armando
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Sobre: "aboutme"
-  Recursos:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre: "sobre"
+#  Recursos:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
