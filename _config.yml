@@ -4,7 +4,7 @@
 title: Fabio Armando
 
 # Short description of your site
-description: TI, pequenos projetos e nerdices em geral 
+description: Para falar de TI, pequenos projetos e curiosidades avulsas.
 
 # Your name to show in the footer
 author: Fabio Armando
@@ -12,8 +12,8 @@ author: Fabio Armando
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Eu: "aboutme"
-  Resources:
+  Sobre: "aboutme"
+  Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
@@ -42,9 +42,9 @@ social-network-links:
   facebook: fabiooarmando
   github: FabioArmando
   twitter: fabioarmando
-  rss: true
-#  reddit: yourname
-#  linkedin: daattali
+  rss: false
+  reddit: fabioarmando
+  linkedin: fabioarmando
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -68,7 +68,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "fabioarmando.com.br"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
