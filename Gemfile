@@ -15,3 +15,5 @@ gem 'jekyll-sitemap'
 gem 'tzinfo-data'
 
 gem "jekyll-remote-theme"
+
+gem "i18n"
