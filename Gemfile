@@ -16,4 +16,4 @@ gem 'tzinfo-data'
 
 gem "jekyll-remote-theme"
 
-gem "i18n"
+gem "i18n" 
