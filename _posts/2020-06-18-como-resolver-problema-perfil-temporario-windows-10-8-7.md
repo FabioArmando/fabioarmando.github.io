@@ -23,13 +23,15 @@ Inicie o editor de registro (pressione as teclas Win + R, digite **regedit** e p
 
 ## Passo 2: Encontre o ProfileList
 
-Vá expandindo a seleção à esquerda até o caminho abaixo 
+Vá expandindo a seleção à esquerda até o caminho abaixo:
 
 ~~~
-HKEY_LOCAL_MACHINE \ SOFTWARE \ Microsoft \ Windows NT \ CurrentVersion \ ProfileList
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 ~~~
 
-Observe a presença de uma sucessão com um ".bak" no final, selecione-o.
+![Regedit profile com .bak](/assets/img/caminho-do-profilelist.png){: .mx-auto.d-block :}
+
+Observe a presença de uma "pasta" com um ".bak" no final, selecione-a.
 
 ![Regedit profile com .bak](/assets/img/regedit-profile-bak.png){: .mx-auto.d-block :}
 
