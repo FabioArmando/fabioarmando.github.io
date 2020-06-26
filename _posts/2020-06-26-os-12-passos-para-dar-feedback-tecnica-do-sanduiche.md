@@ -11,4 +11,4 @@ Ministrada pela renomada professora e autora, [Daniela do Lago](https://danielad
 
 Como teríamos uma avaliação prática sobre feedback, de tão importante que é esse tema, resolvi fazer um video sobre **Os 12 Passos para dar Feedback, A Técnica do Sanduíche**.
 
-{% youtube UW7Qq3cIZrg %}
+{% youtube UW7Qq3cIZrg 640 360 %}
